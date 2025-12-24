@@ -1,0 +1,50 @@
+This one is very important historically.
+
+The Problem
+
+There is a secret string s (not all zeros).
+
+The function has this rule:
+
+f(x) = f(x ⊕ s)
+
+
+That means:
+
+Every output is produced by two different inputs
+
+Those two inputs differ by s
+
+Your job:
+👉 Find the secret string s
+
+Classical Computer
+
+Needs exponential time
+
+Gets slower very fast as input size grows
+
+Quantum Computer
+
+Uses superposition + measurements
+
+Each run gives partial information
+
+After a few runs, you can solve for s
+
+👉 Needs polynomial time
+
+⚡ Exponential speedup!
+
+Why Simon’s Problem Is Important
+
+Simon’s algorithm was the first proof that quantum computers can be exponentially faster than classical ones.
+
+It directly inspired Shor’s algorithm (which breaks RSA encryption).
+
+🧠 Summary Table (Very Simple)
+Algorithm	What it Shows
+Deutsch	Quantum can beat classical even on tiny problems
+Deutsch–Jozsa	Quantum detects patterns instantly
+Bernstein–Vazirani	Quantum finds hidden strings in one shot
+Simon	Quantum can be exponentially faster
