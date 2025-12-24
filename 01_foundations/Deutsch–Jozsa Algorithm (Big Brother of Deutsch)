@@ -1,0 +1,34 @@
+What Changed?
+
+Instead of 1-bit input, now:
+
+Input can be many bits (000… to 111…)
+
+Function is still either:
+
+CONSTANT (same output for all inputs)
+
+BALANCED (half outputs 0, half outputs 1)
+
+Classical Computer
+
+Worst case:
+
+You may need to check more than half of all inputs
+
+If input size is big → very slow
+
+Quantum Computer
+
+Using:
+
+Superposition (all inputs at once)
+
+Interference (canceling wrong answers)
+
+👉 Only ONE run of the quantum circuit
+👉 Guaranteed correct answer
+
+Key Lesson
+
+Quantum computers can detect global patterns very efficiently.
