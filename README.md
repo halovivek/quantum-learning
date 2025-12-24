@@ -113,3 +113,9 @@ Senior technology and delivery leader transitioning into
 quantum computing with a focus on practical algorithms,
 hybrid systems, and business-relevant applications.
 
+#quantum-computing
+#qiskit
+#algorithms
+#optimization
+#cryptography
+
