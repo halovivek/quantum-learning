@@ -43,3 +43,73 @@ computing from an implementation-first, use-case-driven perspective.
 - IBM Quantum (simulators and real devices)
 - Jupyter Notebooks
 - Hybrid quantum–classical optimization workflows
+
+# Quantum Computing Portfolio
+
+This repository contains hands-on implementations of foundational
+and applied quantum algorithms using Qiskit.
+
+The focus is on practical understanding, clear explanations,
+and real-world relevance rather than pure theory.
+
+---
+
+## 📂 Repository Structure
+
+01_foundations  
+- Deutsch Algorithm  
+- Deutsch–Jozsa Algorithm  
+
+02_hidden_structure  
+- Bernstein–Vazirani Algorithm  
+- Simon’s Algorithm  
+
+03_search_and_optimization  
+- Grover’s Algorithm  
+- Classical vs Quantum Search Comparison  
+
+04_quantum_ml  
+- Quantum Feature Maps  
+- Hybrid Quantum–Classical Models  
+
+05_real_hardware  
+- Simulator vs Real Quantum Device  
+- Noise and Error Mitigation  
+
+---
+
+## 🧠 Key Skills Demonstrated
+
+- Quantum circuit design
+- Oracle-based algorithms
+- Phase kickback & interference
+- Hybrid quantum–classical workflows
+- Qiskit & IBM Quantum tools
+
+---
+
+## 🎯 Why This Matters
+
+These algorithms form the foundation of:
+- Shor’s Algorithm (cryptography)
+- Grover-based optimization
+- Quantum Machine Learning
+- Post-quantum security planning
+
+---
+
+## 🔧 Tools Used
+
+- Python
+- Qiskit
+- Jupyter Notebook
+- IBM Quantum
+
+---
+
+## 👤 About Me
+
+Senior technology and delivery leader transitioning into
+quantum computing with a focus on practical algorithms,
+hybrid systems, and business-relevant applications.
+
