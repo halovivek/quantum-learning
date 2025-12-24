@@ -1,0 +1,46 @@
+The Problem (In Simple Words)
+
+    You are given a black box function (you don’t know how it works).
+
+The function:
+
+            Takes one bit (0 or 1)
+
+            Gives one bit as output
+
+You are told:
+
+The function is either
+                      CONSTANT → always gives the same output
+                      OR
+                      BALANCED → gives different outputs for 0 and 1
+
+Your Goal
+
+👉 Find out which type it is.
+
+                            Classical Way (Normal Computer)
+                            
+                            To be sure:
+                            
+                            Test input 0
+                            
+                            Test input 1
+
+👉 Needs 2 checks
+
+                              Quantum Way (Deutsch’s Trick)
+                              
+                              A quantum computer:
+                              
+                              Tries 0 and 1 at the same time using superposition
+                              
+                              Uses interference to combine results
+
+👉 Needs only 1 check
+
+                                🎉 That’s the magic!
+
+Key Lesson from Deutsch’s Algorithm
+
+                        Quantum computers can sometimes solve problems with fewer steps than classical ones.
